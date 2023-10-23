@@ -120,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "54713d004bf61df1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7455f0fcf3016c1b",
-  "lastOpenFiles": []
+  "active": "bb381bad4e3acaf3",
+  "lastOpenFiles": [
+    "test.txt",
+    "Neues Textdokument.txt",
+    "Neuer Ordner"
+  ]
 }
