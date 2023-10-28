@@ -1,5 +1,36 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "7d60e9e2-89a4-4fd7-9604-a2d001e49b4d",
+      "name": "Add Value",
+      "type": "Template",
+      "command": true,
+      "templatePath": "999 Templates/Value Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE: Value Name}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "5 Life/Values"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,

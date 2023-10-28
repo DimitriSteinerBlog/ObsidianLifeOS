@@ -1,10 +1,9 @@
 ---
 banner_icon: 💎
 ---
-
 ###### [[Values]]
 ###### tags:: #life/value
-# {{title}}
+# <% tp.file.title %>
 
 Why:: 
 
