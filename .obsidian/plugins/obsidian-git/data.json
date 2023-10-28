@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "commitMessage": "vault update: {{date}}",
+=======
+  "commitMessage": "vault backup: {{date}}",
+>>>>>>> origin/main
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
   "autoPushInterval": 0,
@@ -47,9 +51,13 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
+<<<<<<< HEAD
     "gutterSpacingFallbackLength": 5,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
+=======
+    "gutterSpacingFallbackLength": 5
+>>>>>>> origin/main
   },
   "autoCommitMessage": "vault backup: {{date}}"
 }
