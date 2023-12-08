@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999 Templates/Value Template.md",
-                "mode": "source",
+                "file": "5 Life/Values/Values.md",
+                "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "e1dd8d4e5a23c635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Life/Goals/1 Views/Goals 🎯.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a44dad212b0b2b4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Life/Goals/Sample Goal - Run a Marathon/Sample Goal - Run a Marathon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68a40a13b6667729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Templates/Goals Template.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999 Templates/Value Template.md",
+                "file": "999 Templates/Goals Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999 Templates/Value Template.md",
+                "file": "999 Templates/Goals Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999 Templates/Value Template.md"
+                "file": "999 Templates/Goals Template.md"
               }
             }
           },
@@ -168,18 +204,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dabaf34505cf23f9",
+  "active": "68a40a13b6667729",
   "lastOpenFiles": [
-    "5 Life/Values/Values.md",
-    "5 Life/Values/Test.md",
+    "5 Life/Goals/1 Views/Milestones - Achieved 🏁.md",
+    "5 Life/Goals/1 Views/Milestones 🏁.md",
     "999 Templates/Value Template.md",
+    "999 Templates/Milestones Template.md",
+    "999 Templates/Goals Template.md",
+    "5 Life/Goals/Sample Goal - Run a Marathon/Sample Goal - Run a Marathon.md",
+    "5 Life/Goals/Sample Goal - Run a Marathon/Sample Milestone - Run 5 km.md",
+    "5 Life/Goals/1 Views/Goals 🎯.md",
+    "5 Life/Goals/Sample Goal - Run a Marathon",
+    "5 Life/Values/Sample Value - Healthy.md",
+    "5 Life/Values/Values.md",
+    "5 Life/Goals/Test Goal/Test Goal.md",
+    "5 Life/Goals/Test Goal",
     "README.md",
+    "5 Life/Goals/1 Views/Goals - Achieved 🎯.md",
+    "5 Life/Goals/goals-banner.jpg",
+    "5 Life/Goals/1 Views",
+    "5 Life/Goals",
+    "5 Life/Values/Test.md",
     "5 Life/Values",
     "Untitled",
     "999 Templates",
     "5 Life",
     "test.txt",
-    "Neues Textdokument.txt",
-    "Neuer Ordner"
+    "Neues Textdokument.txt"
   ]
 }

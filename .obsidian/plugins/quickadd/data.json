@@ -29,6 +29,64 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "6620fedc-30cb-480a-95a6-c0db1aa01e8e",
+      "name": "Add Goal",
+      "type": "Template",
+      "command": true,
+      "templatePath": "999 Templates/Goals Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE: Goal Name}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "5 Life/Goals/{{VALUE: Goal Name}}"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "36c62108-09f6-4c59-b883-b540ef759c8e",
+      "name": "Add Milestone",
+      "type": "Template",
+      "command": true,
+      "templatePath": "999 Templates/Milestones Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": true,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [],
