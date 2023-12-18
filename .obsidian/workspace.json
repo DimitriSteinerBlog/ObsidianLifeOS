@@ -13,38 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Life/Values/Values.md",
-                "mode": "source",
-                "source": false
+                "file": "5 Life/Goals/1 Views/Goals 🎯.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
           {
-            "id": "b42f72558f039297",
+            "id": "a1bcffc93f0749f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Life/Values/Values.md",
+                "file": "999 Templates/Projects Template.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46653a395586946e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Life/Values/Values.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Life/Values/Values.md",
+                "file": "999 Templates/Projects Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Life/Values/Values.md",
+                "file": "999 Templates/Projects Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Life/Values/Values.md"
+                "file": "999 Templates/Projects Template.md"
               }
             }
           }
@@ -172,23 +160,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46653a395586946e",
+  "active": "a1bcffc93f0749f1",
   "lastOpenFiles": [
-    "5 Life/Values/sir.md",
+    "999 Templates/Milestones Template.md",
+    "999 Templates/Projects Template.md",
+    "5 Life/Projects/project-banner.jpg",
+    "999 Templates/project-banner.jpg",
+    "5 Life/Projects/1 Views/Projects 🗂️.md",
+    "5 Life/Projects/1 Views/Projects - KanBan 🗂️.md",
+    "5 Life/Projects/1 Views/Projects - Archive 🗂️.md",
+    "5 Life/Projects/1 Views/Projects - Backlog 🗂️.md",
+    "5 Life/Projects/1 Views/Projects - Inactive 🗂️.md",
+    "Projects 🗂️.md",
+    "5 Life/Goals/Test Goal/Test Goal.md",
+    "5 Life/Projects/1 Views",
+    "5 Life/Projects",
+    "5 Life/Goals/Test Goal/Test Milestone.md",
+    "5 Life/Goals/1 Views/Goals 🎯.md",
+    "5 Life/Goals/Sample Goal - Run a Marathon/Sample Milestone - Run 5 km.md",
+    "5 Life/Goals/Sample Goal - Run a Marathon/Sample Goal - Run a Marathon.md",
+    "5 Life/Goals/Test Goal",
+    "5 Life/Values/Sample Value - Healthy.md",
+    "999 Templates/Goals Template.md",
+    "5 Life/Goals/1 Views/Milestones 🏁.md",
     "5 Life/Values/Values.md",
-    "5 Life/Values/Test.md",
-    "999 Templates/Value Template.md",
+    "5 Life/Goals/1 Views/Goals - Achieved 🎯.md",
     "README.md",
+    "5 Life/Goals/goals-banner.jpg",
+    "999 Templates/Value Template.md",
     "conflict-files-obsidian-git.md",
-    "999 Templates",
+    "5 Life/Goals/1 Views/Milestones - Achieved 🏁.md",
+    "5 Life/Goals/Sample Goal - Run a Marathon",
+    "5 Life/Goals/1 Views",
     "5 Life/Goals",
+    "5 Life/Values/sir.md",
+    "5 Life/Values/Test.md",
+    "999 Templates",
     "5 Life/Values",
     "5 Life",
     "test.md",
-    "5 Life/Goals",
-    "5 Life/Values",
-    "5 Life",
-    "5 Life",
-    "5 Life"
+    "5 Life/Values"
   ]
 }

@@ -29,6 +29,64 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "d274d23a-ac20-4143-8abd-c3272cb53796",
+      "name": "Add Goal",
+      "type": "Template",
+      "command": true,
+      "templatePath": "999 Templates/Goals Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE: Goal Name}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "5 Life/Goals/{{VALUE: Goal Name}}"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "99dab406-c2fe-46e1-93e2-f9013bc70394",
+      "name": "Add Milestone",
+      "type": "Template",
+      "command": true,
+      "templatePath": "999 Templates/Milestones Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": true,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [],
@@ -36,7 +94,7 @@
   "devMode": false,
   "templateFolderPath": "",
   "announceUpdates": true,
-  "version": "1.4.0",
+  "version": "1.6.1",
   "disableOnlineFeatures": true,
   "ai": {
     "OpenAIApiKey": "",

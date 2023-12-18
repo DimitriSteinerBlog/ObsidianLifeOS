@@ -1,8 +1,10 @@
 [
-  "obsidian-git",
   "dataview",
-  "quickadd",
   "obsidian-banners",
   "buttons",
-  "templater-obsidian"
+  "obsidian-emoji-toolbar",
+  "obsidian-git",
+  "quickadd",
+  "templater-obsidian",
+  "obsidian-kanban"
 ]
