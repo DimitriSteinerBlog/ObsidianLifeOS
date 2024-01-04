@@ -6,5 +6,7 @@
   "obsidian-git",
   "quickadd",
   "templater-obsidian",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-tasks-plugin",
+  "metaedit"
 ]

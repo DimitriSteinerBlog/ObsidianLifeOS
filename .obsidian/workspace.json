@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5445db7e51335ad8",
+        "id": "82593f5253b19038",
         "type": "tabs",
         "children": [
           {
-            "id": "7455f0fcf3016c1b",
+            "id": "47c06ce5a94df677",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Life/Goals/1 Views/Goals 🎯.md",
+                "file": "5 Life/Tasks/Tasks - Timeline ✔️.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "a1bcffc93f0749f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "999 Templates/Projects Template.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999 Templates/Projects Template.md",
+                "file": "5 Life/Tasks/Tasks - Timeline ✔️.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999 Templates/Projects Template.md",
+                "file": "5 Life/Tasks/Tasks - Timeline ✔️.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999 Templates/Projects Template.md"
+                "file": "5 Life/Tasks/Tasks - Timeline ✔️.md"
               }
             }
           }
@@ -160,45 +147,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a1bcffc93f0749f1",
+  "active": "47c06ce5a94df677",
   "lastOpenFiles": [
-    "999 Templates/Milestones Template.md",
-    "999 Templates/Projects Template.md",
-    "5 Life/Projects/project-banner.jpg",
-    "999 Templates/project-banner.jpg",
+    "5 Life/Tasks/Tasks - Calendar ✔️.md",
+    "5 Life/Tasks/Tasks - Timeline ✔️.md",
+    "5 Life/Tasks/Tasks - Inbox ✔️.md",
+    "5 Life/Projects/Sample Project - Buy Running Gear/Sample Project - Buy Running Gear.md",
+    "5 Life/Tasks/Other Tasks.md",
+    "5 Life/Tasks/Tasks ✔️.md",
+    "5 Life/Tasks/Tasks - Upcoming ✔️.md",
+    "5 Life/Tasks/Tasks - Overdue ✔️.md",
     "5 Life/Projects/1 Views/Projects 🗂️.md",
     "5 Life/Projects/1 Views/Projects - KanBan 🗂️.md",
-    "5 Life/Projects/1 Views/Projects - Archive 🗂️.md",
-    "5 Life/Projects/1 Views/Projects - Backlog 🗂️.md",
     "5 Life/Projects/1 Views/Projects - Inactive 🗂️.md",
+    "5 Life/Projects/1 Views/Projects - Backlog 🗂️.md",
+    "5 Life/Projects/1 Views/Projects - Archive 🗂️.md",
+    "5 Life/Goals/1 Views/Goals 🎯.md",
+    "999 Templates/Projects Template.md",
+    "5 Life/Projects/Sample Project - Buy Running Gear",
+    "JSViews/tasksCalendar/view.js",
+    "JSViews/tasksCalendar/view.css",
+    "JSViews/tasksCalendar",
+    "JSViews/taskido/view.js",
+    "JSViews/taskido/view.css",
+    "JSViews/taskido",
+    "JSViews",
+    "5 Life/Tasks",
+    "5 Life/Goals/1 Views/Milestones 🏁.md",
+    "5 Life/Goals/1 Views/Milestones - Achieved 🏁.md",
+    "5 Life/Goals/1 Views/Goals - Achieved 🎯.md",
+    "999 Templates/Milestones Template.md",
+    "5 Life/Projects/project-banner.jpg",
+    "999 Templates/project-banner.jpg",
     "Projects 🗂️.md",
     "5 Life/Goals/Test Goal/Test Goal.md",
     "5 Life/Projects/1 Views",
-    "5 Life/Projects",
     "5 Life/Goals/Test Goal/Test Milestone.md",
-    "5 Life/Goals/1 Views/Goals 🎯.md",
     "5 Life/Goals/Sample Goal - Run a Marathon/Sample Milestone - Run 5 km.md",
     "5 Life/Goals/Sample Goal - Run a Marathon/Sample Goal - Run a Marathon.md",
-    "5 Life/Goals/Test Goal",
     "5 Life/Values/Sample Value - Healthy.md",
-    "999 Templates/Goals Template.md",
-    "5 Life/Goals/1 Views/Milestones 🏁.md",
-    "5 Life/Values/Values.md",
-    "5 Life/Goals/1 Views/Goals - Achieved 🎯.md",
-    "README.md",
-    "5 Life/Goals/goals-banner.jpg",
-    "999 Templates/Value Template.md",
-    "conflict-files-obsidian-git.md",
-    "5 Life/Goals/1 Views/Milestones - Achieved 🏁.md",
-    "5 Life/Goals/Sample Goal - Run a Marathon",
-    "5 Life/Goals/1 Views",
-    "5 Life/Goals",
-    "5 Life/Values/sir.md",
-    "5 Life/Values/Test.md",
-    "999 Templates",
-    "5 Life/Values",
-    "5 Life",
-    "test.md",
-    "5 Life/Values"
+    "5 Life/Goals/goals-banner.jpg"
   ]
 }

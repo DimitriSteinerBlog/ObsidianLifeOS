@@ -8,7 +8,7 @@ banner_icon: 🗂
 ```button
 name + New Project
 type command
-action QuickAdd: Add Personal Project
+action QuickAdd: Add Project
 ```
 
 [[Projects - KanBan 🗂️| 🧮 KanBan]] | [[Projects 🗂️|🏗️ Active]] | [[Projects - Inactive 🗂️|⛔ Inactive]] | [[Projects - Backlog 🗂️| 📋 Backlog]] | [[Projects - Archive 🗂️|🗃️ Archive]]

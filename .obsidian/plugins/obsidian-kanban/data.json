@@ -1,10 +1,5 @@
 {
   "show-add-list": false,
   "show-archive-all": false,
-  "show-relative-date": true,
-  "hide-date-display": true,
-  "hide-date-in-title": true,
-  "date-picker-week-start": 1,
-  "date-format": " 📅 YYYY-MM-DD",
-  "archive-date-format": " 📅 YYY-MM-DD HH:mm"
+  "date-picker-week-start": 1
 }

@@ -87,9 +87,99 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "f00cd287-1aa6-422f-99ca-ab35d86543fd",
+      "name": "Add Project",
+      "type": "Macro",
+      "command": true,
+      "macroId": "dae8677c-0f35-4520-996f-f0bdff064a7a"
     }
   ],
-  "macros": [],
+  "macros": [
+    {
+      "name": "Add Project",
+      "id": "dae8677c-0f35-4520-996f-f0bdff064a7a",
+      "commands": [
+        {
+          "name": "Create Project",
+          "type": "NestedChoice",
+          "id": "8536b938-a88c-4f45-a263-bdb85297c0b7",
+          "choice": {
+            "id": "3037d915-f477-49d5-b381-f04b73ff5c25",
+            "name": "Create Project",
+            "type": "Template",
+            "command": false,
+            "templatePath": "999 Templates/Projects Template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE: Project Name}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "5 Life/Projects/{{VALUE: Project Name}}"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        },
+        {
+          "name": "Add Project to KanBan",
+          "type": "NestedChoice",
+          "id": "a82f155d-5485-4d27-ab76-ab9d54a087f9",
+          "choice": {
+            "id": "7b10f50d-ea3f-43a3-95fb-927a82ea50ff",
+            "name": "Add Project to KanBan",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "5 Life/Projects/1 Views/Projects - KanBan 🗂️.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "[[{{VALUE: Project Name}}]]"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## backlog",
+              "insertAtEnd": true,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",
