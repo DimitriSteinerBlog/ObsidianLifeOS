@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Life/Tasks/Tasks - Timeline ✔️.md",
+                "file": "5 Life/Projects/1 Views/Projects 🗂️.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "5a4afd3f1715fa38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Life/Tasks/Tasks - Upcoming ✔️.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "23a91cddf1e5f46e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Life/Projects/1 Views/Projects 🗂️.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e46125baccc9b33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Templates/Value Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Life/Tasks/Tasks - Timeline ✔️.md",
+                "file": "5 Life/Projects/1 Views/Projects 🗂️.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Life/Tasks/Tasks - Timeline ✔️.md",
+                "file": "5 Life/Projects/1 Views/Projects 🗂️.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Life/Tasks/Tasks - Timeline ✔️.md"
+                "file": "5 Life/Projects/1 Views/Projects 🗂️.md"
               }
             }
           }
@@ -147,45 +184,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47c06ce5a94df677",
+  "active": "23a91cddf1e5f46e",
   "lastOpenFiles": [
-    "5 Life/Tasks/Tasks - Calendar ✔️.md",
-    "5 Life/Tasks/Tasks - Timeline ✔️.md",
-    "5 Life/Tasks/Tasks - Inbox ✔️.md",
+    "5 Life/Projects/z/z.md",
+    "5 Life/Projects/1 Views/Projects 🗂️.md",
+    "5 Life/Projects/z",
     "5 Life/Projects/Sample Project - Buy Running Gear/Sample Project - Buy Running Gear.md",
-    "5 Life/Tasks/Other Tasks.md",
-    "5 Life/Tasks/Tasks ✔️.md",
+    "5 Life/Areas/Health/Health.md",
+    "5 Life/Areas/Areas 🗃️.md",
+    "Home.md",
+    "5 Life/Plan/Plan - This Quarter 🔭.md",
+    "5 Life/Goals/1 Views/Milestones 🏁.md",
+    "5 Life/Goals/1 Views/Goals 🎯.md",
+    "5 Life/Projects/1 Views/Projects - Inactive 🗂️.md",
+    "5 Life/Projects/1 Views/Projects - KanBan 🗂️.md",
+    "5 Life/Tasks/Tasks - Timeline ✔️.md",
+    "999 Templates/Areas Template.md",
+    "999 Templates/Goals Template.md",
+    "999 Templates/Value Template.md",
+    "999 Templates/Projects Template.md",
+    "999 Templates/Milestones Template.md",
+    "5 Life/Goals/Sample Goal - Run a Marathon/Sample Milestone - Run 5 km.md",
+    "5 Life/Goals/Sample Goal - Run a Marathon/Sample Goal - Run a Marathon.md",
+    "5 Life/Areas/Health",
+    "5 Life/Areas/health-banner.jpg",
+    "5 Life/Areas",
+    "home-banner.jpg",
     "5 Life/Tasks/Tasks - Upcoming ✔️.md",
     "5 Life/Tasks/Tasks - Overdue ✔️.md",
-    "5 Life/Projects/1 Views/Projects 🗂️.md",
-    "5 Life/Projects/1 Views/Projects - KanBan 🗂️.md",
-    "5 Life/Projects/1 Views/Projects - Inactive 🗂️.md",
-    "5 Life/Projects/1 Views/Projects - Backlog 🗂️.md",
+    "5 Life/Tasks/Tasks - Inbox ✔️.md",
+    "5 Life/Tasks/Tasks ✔️.md",
+    "5 Life/Tasks/Tasks - Calendar ✔️.md",
     "5 Life/Projects/1 Views/Projects - Archive 🗂️.md",
-    "5 Life/Goals/1 Views/Goals 🎯.md",
-    "999 Templates/Projects Template.md",
+    "5 Life/Projects/1 Views/Projects - Backlog 🗂️.md",
+    "5 Life/Plan",
+    "5 Life/Projects/asd",
     "5 Life/Projects/Sample Project - Buy Running Gear",
     "JSViews/tasksCalendar/view.js",
     "JSViews/tasksCalendar/view.css",
     "JSViews/tasksCalendar",
     "JSViews/taskido/view.js",
-    "JSViews/taskido/view.css",
-    "JSViews/taskido",
-    "JSViews",
-    "5 Life/Tasks",
-    "5 Life/Goals/1 Views/Milestones 🏁.md",
-    "5 Life/Goals/1 Views/Milestones - Achieved 🏁.md",
-    "5 Life/Goals/1 Views/Goals - Achieved 🎯.md",
-    "999 Templates/Milestones Template.md",
     "5 Life/Projects/project-banner.jpg",
     "999 Templates/project-banner.jpg",
-    "Projects 🗂️.md",
-    "5 Life/Goals/Test Goal/Test Goal.md",
-    "5 Life/Projects/1 Views",
-    "5 Life/Goals/Test Goal/Test Milestone.md",
-    "5 Life/Goals/Sample Goal - Run a Marathon/Sample Milestone - Run 5 km.md",
-    "5 Life/Goals/Sample Goal - Run a Marathon/Sample Goal - Run a Marathon.md",
-    "5 Life/Values/Sample Value - Healthy.md",
     "5 Life/Goals/goals-banner.jpg"
   ]
 }

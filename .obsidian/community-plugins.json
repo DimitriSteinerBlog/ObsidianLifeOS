@@ -8,5 +8,6 @@
   "templater-obsidian",
   "obsidian-kanban",
   "obsidian-tasks-plugin",
-  "metaedit"
+  "metaedit",
+  "obsidian-minimal-settings"
 ]

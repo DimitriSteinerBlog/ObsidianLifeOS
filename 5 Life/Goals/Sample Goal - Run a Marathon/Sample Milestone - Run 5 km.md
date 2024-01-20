@@ -3,7 +3,6 @@
 cssClass: cards, cards-cols-4
 banner_icon: 🏁
 ---
-
 ###### [[Milestones 🏁]]
 ###### tags:: #life/milestone
 # Sample Milestone - Run 5 km

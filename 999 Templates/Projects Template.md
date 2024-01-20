@@ -17,7 +17,6 @@ banner_icon: 🗂️
 banner_y: 0.3996
 status: backlog
 ---
-
 ###### [[Projects 🗂️]]
 ###### tags:: #project/personal 
 # <% tp.file.title %>

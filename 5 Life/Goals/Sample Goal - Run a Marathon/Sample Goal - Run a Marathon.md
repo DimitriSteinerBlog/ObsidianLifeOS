@@ -10,7 +10,7 @@ banner_y: 0.42771
 
 >[!abstract]- Goal Metadata
 >Value:: [[5 Life/Values/Sample Value - Healthy.md|Sample Value - Healthy]]
->Area:: null
+>Area:: [[Health]]
 >Start:: 2023-12-07
 >Deadline:: 2024-12-31
 >CompletedDate:: In Progress

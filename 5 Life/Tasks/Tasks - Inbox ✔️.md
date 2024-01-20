@@ -8,11 +8,15 @@ banner_icon: ✔️
 ## 📥 Inbox
 ```dataviewjs
 //exclude projects which don't have the status "active"
-const excluded = '(' + dv.pagePaths('#project/personal AND "5 Life"')
+let excluded = '(' + dv.pagePaths('#project/personal AND "5 Life"')
   .where(p => dv.page(p).status != "active")
   .array()
   .map(x => 'path does not include ' + x)
   .join(') AND (') + ')'
+
+if (excluded == '()') {
+	excluded = ''
+}
 
 const query = `
 not done

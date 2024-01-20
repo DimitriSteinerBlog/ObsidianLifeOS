@@ -94,6 +94,36 @@
       "type": "Macro",
       "command": true,
       "macroId": "dae8677c-0f35-4520-996f-f0bdff064a7a"
+    },
+    {
+      "id": "6b52f10e-af90-4464-a1d7-0672a383f836",
+      "name": "Add Area",
+      "type": "Template",
+      "command": true,
+      "templatePath": "999 Templates/Areas Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE: Area Name}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "5 Life/Areas/{{VALUE: Area Name}}"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [

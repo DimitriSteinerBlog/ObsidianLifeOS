@@ -1,0 +1,3 @@
+.cards table.dataview tbody>tr>td:not(:last-child):not(:first-child) {
+    border-bottom: none;
+}

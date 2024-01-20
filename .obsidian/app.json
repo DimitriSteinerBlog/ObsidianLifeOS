@@ -2,5 +2,6 @@
   "propertiesInDocument": "hidden",
   "showInlineTitle": false,
   "promptDelete": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "readableLineLength": false
 }

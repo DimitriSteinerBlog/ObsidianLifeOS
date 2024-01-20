@@ -1,19 +1,11 @@
 ---
-banner_icon: 🎯
+banner: "![[areas-banner.jpg]]"
+cssClass: cards, cards-cols-4
 ---
-###### [[Home]]
-###### tags:: #atlas/view👓 
-# Goals Dashboard
-
-```button
-name + New Goal
-type command
-action QuickAdd: Add Goal
-```
-
-[[Goals 🎯|🏗️ In Progress]] | [[Goals - Achieved 🎯|🏆 Achieved]] 
-
-## 🏗️ In Progress
+###### [[Areas 🗃️|Areas]]
+###### tags:: #life/area 
+# <% tp.file.title %>
+## 🎯 Goals
 ```dataviewjs
 function getMilestonePages(goalName) {
 	var files = dv.pages('#life/milestone')
@@ -37,9 +29,9 @@ function getProgress(milestonePages) {
 	return "<progress value='" + progress + "' max='100'></progress>" + "<br>" + progress + "% completed"
 }
 
-let pages = dv.pages('#life/goal and "5 Life"').where(p => p.completeddate == "In Progress")
+let pages = dv.pages('#life/goal and "5 Life"').where(p => String(p.area) == String(dv.current().file.link))
 
-dv.table(["Banner", "🎯 Goal", "📈 Progress", "🏁 Milestones", "Area", "📆 Deadline"], 
+dv.table(["Banner", "🎯 Goal", "📈 Progress", "🏁 Milestones", "📆 Deadline"], 
 	pages
 	    .sort(p => p.deadline, 'asc')
 	    .map(p => [
@@ -47,25 +39,21 @@ dv.table(["Banner", "🎯 Goal", "📈 Progress", "🏁 Milestones", "Area", "�
 	        p.file.link,
 	        getProgress(getMilestonePages(p.file.name)),
 	        getMilestonesDone(getMilestonePages(p.file.name)) + "/" + getMilestonesTotal(getMilestonePages(p.file.name)) + " Milestones",
-	        p.area,
 	        p.deadline
 	    ])
 )
-
-dv.container.classList.add("cards")
-dv.container.classList.add("cards-align-bottom")
-dv.container.classList.add("cards-cols-4")
 ```
- 
-## 🏆 Last 10 Milestones
+
+## 🗂️ Projects
 ```dataview
 TABLE without ID
-	file.link AS "🏁 Milestone",
-	goal as "🎯 Goal",
-	dateformat(completeddate,"d MMMM, yyyy") AS "✅ Completed",
+	banner,
+	file.link AS " 🗂 Name",
+	"<progress value='" + (length(filter(file.tasks.completed, (t) => t = true)) / length(file.tasks)) * 100 + "' max='100'></progress>" + "<br>" + round((length(filter(file.tasks.completed, (t) => t = true)) / length(file.tasks)) * 100) + "% completed"
+ AS "📈 Progress",
+	length(filter(file.tasks.completed, (t) => t = true)) + "/" + length(file.tasks) + " Tasks" AS "✅ Tasks",
 	dateformat(deadline,"d MMMM, yyyy") AS "📅 Deadline"
-FROM #life/milestone 
-WHERE completeddate != "In Progress"
-SORT completeddate DESC, deadline DESC
-LIMIT 10
+FROM #project/personal AND "5 Life" 
+WHERE area = this.file.link
+SORT completeddate ASC, deadline ASC
 ```
