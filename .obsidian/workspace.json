@@ -37,9 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Life/Projects/1 Views/Projects 🗂️.md",
+                "file": "2  Journal/Monthly Review/Monthly Review 📆.md",
                 "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "d33d331f56a17a3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2  Journal/Annual Review/2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f713f8fc64650ca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.4"
               }
             }
           },
@@ -56,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Life/Projects/1 Views/Projects 🗂️.md",
+                "file": "2  Journal/Annual Review/2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Life/Projects/1 Views/Projects 🗂️.md",
+                "file": "2  Journal/Annual Review/2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,16 +184,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Life/Projects/1 Views/Projects 🗂️.md"
+                "file": "2  Journal/Annual Review/2023.md"
               }
             }
+          },
+          {
+            "id": "cc75d857459fba5f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,49 +211,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "23a91cddf1e5f46e",
+  "active": "9f713f8fc64650ca",
   "lastOpenFiles": [
-    "5 Life/Projects/z/z.md",
+    "2  Journal/Quarterly Review/2023-Q4.md",
+    "2  Journal/Monthly Review/2023-12.md",
+    "2  Journal/Annual Review/2023.md",
+    "2  Journal/Weekly Review/2024-W04.md",
+    "2  Journal/Quarterly Review/2024-Q1.md",
+    "2  Journal/Quarterly Review/Quarterly Review 📅.md",
+    "2  Journal/Monthly Review/2024-02.md",
+    "2  Journal/Monthly Review/Monthly Review 📆.md",
+    "2  Journal/Annual Review/2024.md",
+    "2  Journal/Annual Review/Annual Review 📅.md",
+    "2024-02.md",
+    "2  Journal/Weekly Review/2024-W05.md",
+    "999 Templates/Review - Weekly Template.md",
+    "Home.md",
+    "README.md",
+    "home-banner.jpg",
+    "2  Journal/Weekly Review/Weekly Review 📑.md",
+    "999 Templates/Review - Annual Template.md",
+    "999 Templates/Review - Quarterly Template.md",
+    "999 Templates/Review - Monthly Template.md",
     "5 Life/Projects/1 Views/Projects 🗂️.md",
+    "2  Journal/Monthly Review",
+    "2  Journal/Neuer Ordner",
+    "2  Journal/Weekly Review",
+    "2  Journal/Quarterly Review",
+    "2  Journal/Annual Review",
+    "Neuer Ordner",
+    "2  Journal",
+    "5 Life/Projects/z/z.md",
     "5 Life/Projects/z",
     "5 Life/Projects/Sample Project - Buy Running Gear/Sample Project - Buy Running Gear.md",
     "5 Life/Areas/Health/Health.md",
     "5 Life/Areas/Areas 🗃️.md",
-    "Home.md",
     "5 Life/Plan/Plan - This Quarter 🔭.md",
     "5 Life/Goals/1 Views/Milestones 🏁.md",
-    "5 Life/Goals/1 Views/Goals 🎯.md",
-    "5 Life/Projects/1 Views/Projects - Inactive 🗂️.md",
-    "5 Life/Projects/1 Views/Projects - KanBan 🗂️.md",
-    "5 Life/Tasks/Tasks - Timeline ✔️.md",
-    "999 Templates/Areas Template.md",
-    "999 Templates/Goals Template.md",
-    "999 Templates/Value Template.md",
-    "999 Templates/Projects Template.md",
-    "999 Templates/Milestones Template.md",
-    "5 Life/Goals/Sample Goal - Run a Marathon/Sample Milestone - Run 5 km.md",
-    "5 Life/Goals/Sample Goal - Run a Marathon/Sample Goal - Run a Marathon.md",
     "5 Life/Areas/Health",
     "5 Life/Areas/health-banner.jpg",
     "5 Life/Areas",
-    "home-banner.jpg",
-    "5 Life/Tasks/Tasks - Upcoming ✔️.md",
-    "5 Life/Tasks/Tasks - Overdue ✔️.md",
-    "5 Life/Tasks/Tasks - Inbox ✔️.md",
-    "5 Life/Tasks/Tasks ✔️.md",
-    "5 Life/Tasks/Tasks - Calendar ✔️.md",
-    "5 Life/Projects/1 Views/Projects - Archive 🗂️.md",
-    "5 Life/Projects/1 Views/Projects - Backlog 🗂️.md",
-    "5 Life/Plan",
-    "5 Life/Projects/asd",
-    "5 Life/Projects/Sample Project - Buy Running Gear",
-    "JSViews/tasksCalendar/view.js",
-    "JSViews/tasksCalendar/view.css",
-    "JSViews/tasksCalendar",
-    "JSViews/taskido/view.js",
     "5 Life/Projects/project-banner.jpg",
     "999 Templates/project-banner.jpg",
     "5 Life/Goals/goals-banner.jpg"

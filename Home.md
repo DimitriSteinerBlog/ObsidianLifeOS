@@ -16,9 +16,12 @@ banner_icon: 🌍
 	- [[Milestones 🏁|🏁 Milestones]]
 	- [[Projects 🗂️|🗂️ Projects]]
 	- [[Tasks - Timeline ✔️|✅ Tasks]]  
-- ## 👓 Review & Plan
+- ## 👓 Reflect & Review
 	- [[Weekly Review 📑|📑 Weekly Reviews]] 
-	- [[Monthly Review 📆|📅 Monthly Reviews]] 
+	- [[Monthly Review 📆|📆 Monthly Reviews]] 
+	- [[Quarterly Review 📅|📅 Quarterly Reviews]] 
+	- [[Annual Review 📅|📅 Annual Reviews]] 
+- ## 🔭Plan
 	- [[Values 💎|💎 Values]] 
 	- [[Plan - This Quarter 🔭|🔭 Plan]]
 

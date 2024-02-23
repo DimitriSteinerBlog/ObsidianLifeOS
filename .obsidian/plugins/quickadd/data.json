@@ -124,6 +124,96 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "afb98ec2-c388-46be-abe8-8af3ae7bc083",
+      "name": "Add Quarterly Review",
+      "type": "Template",
+      "command": true,
+      "templatePath": "999 Templates/Review - Quarterly Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-[Q]Q}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "2  Journal/Quarterly Review"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "3a6cacbd-a2b8-49e6-8f0b-6ef6a89f1cdb",
+      "name": "Add Monthly Review",
+      "type": "Template",
+      "command": true,
+      "templatePath": "999 Templates/Review - Monthly Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "2  Journal/Monthly Review"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "cbda365a-bd7f-4f1d-998c-793cb06afab5",
+      "name": "Add Annual Review",
+      "type": "Template",
+      "command": true,
+      "templatePath": "999 Templates/Review - Annual Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "2  Journal/Annual Review"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [
